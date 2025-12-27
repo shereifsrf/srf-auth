@@ -1,0 +1,13 @@
+/**
+ * SRF-Auth Base Styles
+ * 
+ * This file imports Tailwind CSS v4 and DaisyUI components.
+ * Import this file in your global CSS to use the auth components.
+ * 
+ * Usage in your project:
+ * @import '@shereifsrf/srf-auth/styles/base.css';
+ */
+
+/* Tailwind v4 uses a single @import */
+@import "tailwindcss";
+@plugin "daisyui";
